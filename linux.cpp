@@ -1,3 +1,6 @@
+// Written by RebelPolygon
+// Last Updated 2-22-23
+
 #include <fstream>
 #include <iostream>
 #include <filesystem>
