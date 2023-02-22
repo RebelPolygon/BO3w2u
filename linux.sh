@@ -1,4 +1,6 @@
 #!/bin/bash
+# Written by RebelPolygon
+# Last Updated 2-22-23
 
 # Assign working directory to variable BO3
 BO3=$(pwd)
