@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eBPuneClByO9TIEsmByhKuV/P9QwfUK5aKhAbFEy5Iv7EYzGFfY+ivpfqYSLQWZTWROk+j/EE+vpnD6t97yVsw==",
+  "success": true,
+  "projectFilePath": "/data/4TB_SATA_2/IanDB/Personal/Projects/Github/CODW2L/CODW2L.csproj",
+  "expectedPackageFiles": [
+    "/home/rebelpolygon/.nuget/packages/microsoft.netcore.app.runtime.win-x64/7.0.2/microsoft.netcore.app.runtime.win-x64.7.0.2.nupkg.sha512",
+    "/home/rebelpolygon/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512",
+    "/home/rebelpolygon/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/7.0.2/microsoft.aspnetcore.app.runtime.win-x64.7.0.2.nupkg.sha512",
+    "/home/rebelpolygon/.nuget/packages/microsoft.netcore.app.host.win-x64/7.0.2/microsoft.netcore.app.host.win-x64.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
