@@ -30,8 +30,6 @@ namespace CODW2L
                     string name = json.Substring(json.IndexOf("Title") + 9).Split('\"')[0];
                     string path = json.Substring(json.IndexOf("FolderName") + 14).Split('\"')[0];
 
-                    //(DEBUG) Console.WriteLine(type +"\n"+name +"\n"+path);
-
                     // Determine output path based on type
                     string output = "";
                     if (type.Equals("map"))
