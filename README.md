@@ -6,7 +6,7 @@ NOTE: The universal Python script requires [Python](https://www.python.org/downl
 1. Navigate to the **[Releases](https://github.com/RebelPolygon/CODW2L/releases/latest)** tab and download the script / binary for your respective platform
 2. Place the script / pre-built binary in your Black Ops 3 root directory
 3. Execute your respective script and enjoy!
-4. (Optionally) Save space from potential re-downloads by unsubscribing from workshop content after the transfer
+4. (Optional) Prevent re-downloads by unsubscribing from workshop content post-transfer
 
 ## How to Build
 
