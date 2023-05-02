@@ -1,2 +1,0 @@
-/data/4TB_SATA_2/IanDB/Personal/Projects/Github/CODW2L/bin/Release/net7.0/win-x64/publish/CODW2L.pdb
-/data/4TB_SATA_2/IanDB/Personal/Projects/Github/CODW2L/bin/Release/net7.0/win-x64/publish/CODW2L.exe
