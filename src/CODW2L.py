@@ -79,4 +79,3 @@ def move_maps():
 
 # Call the move_maps() function
 move_maps()
-
