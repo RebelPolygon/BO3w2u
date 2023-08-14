@@ -3,7 +3,7 @@ A simple script automating the process of transferring Steam Workshop downloads 
 
 ## How to Use
 NOTE: Scripts tested exclusively for Custom Zombies maps & mods. Alternate content compatibility untested.
-1. Navigate to the **[Releases](https://github.com/RebelPolygon/BO3-uw/releases/latest)** tab and download the script for your respective platform
+1. Navigate to the **[Releases](https://github.com/RebelPolygon/bo3uw/releases/latest)** tab and download the script for your respective platform
 2. Place the script in your Black Ops 3 root directory
 3. Execute the script and enjoy!
 4. (Optional) Prevent re-downloads by unsubscribing from workshop content post-transfer
